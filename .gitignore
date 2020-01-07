@@ -1,2 +1,6 @@
 venv/
 .idea/
+*.ini
+*.jpg
+*.png
+*.pyc
